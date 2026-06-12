@@ -1,4 +1,4 @@
-# Docker Nginx PHP MySQL
+# PHP Docker Dev Stack
 
 A lightweight Docker development stack for PHP projects with Nginx, MySQL and phpMyAdmin.
 
