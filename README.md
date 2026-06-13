@@ -45,11 +45,11 @@ docker compose up -d
 
 ## Services
 
-| Service | URL |
-|---|---|
-| Web app | http://localhost:8080 |
-| phpMyAdmin | http://localhost:8081 |
-| MySQL | localhost:8989 |
+| Service | Docker service | URL |
+|---|---|---|
+| Web app | `web` | http://localhost:8080 |
+| phpMyAdmin | `myadmin` | http://localhost:8081 |
+| MySQL | `mysqldb` | localhost:8989 |
 
 ## Make commands
 
