@@ -30,3 +30,10 @@ git clone https://github.com/itasolution/php-docker-dev-stack.git
 cd php-docker-dev-stack
 cp .env.example .env
 docker compose up -d
+
+## Make commands
+
+```bash
+make up
+make logs
+make down
