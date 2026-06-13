@@ -15,3 +15,7 @@ ps:
 
 config:
 	docker compose config
+
+shell:
+	docker compose exec php sh
+

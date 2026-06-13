@@ -61,6 +61,7 @@ make logs
 make ps
 make down
 make config
+make shell
 ```
 
 Available commands:
@@ -73,6 +74,7 @@ Available commands:
 | `make logs` | Follow container logs |
 | `make ps` | Show running containers |
 | `make config` | Validate and render Docker Compose configuration |
+| `make shell` | Open a shell inside the PHP container |
 
 ## Configure versions
 
