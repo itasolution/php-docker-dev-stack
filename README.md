@@ -4,6 +4,7 @@ A lightweight Docker development stack for PHP projects with Nginx, MySQL and ph
 
 Tested on macOS Apple Silicon / ARM64.
 
+![GitHub release](https://img.shields.io/github/v/release/itasolution/php-docker-dev-stack)
 ![License](https://img.shields.io/github/license/itasolution/php-docker-dev-stack)
 ![GitHub stars](https://img.shields.io/github/stars/itasolution/php-docker-dev-stack?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/itasolution/php-docker-dev-stack?style=social)
