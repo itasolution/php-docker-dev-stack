@@ -12,3 +12,6 @@ logs:
 
 ps:
 	docker compose ps
+
+config:
+	docker compose config

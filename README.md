@@ -60,6 +60,7 @@ make up
 make logs
 make ps
 make down
+make config
 ```
 
 Available commands:
@@ -71,6 +72,7 @@ Available commands:
 | `make restart` | Restart the stack |
 | `make logs` | Follow container logs |
 | `make ps` | Show running containers |
+| `make config` | Validate and render Docker Compose configuration |
 
 ## Configure versions
 
